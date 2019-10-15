@@ -1,0 +1,1 @@
+./geo -i f2.jpg -o out.png -t triangle -s  100
